@@ -1,0 +1,21 @@
+{
+   "data" : [
+      {
+         "radarID" : 12917,
+         "tracks" : [
+            {
+               "detectedID" : 1004,
+               "detectedTime" : 2366.75,
+               "entityID" : 12917,
+               "height" : 877.90372200000002,
+               "lla" : [ 120.4158738, -27.01290818, -223241.4852 ],
+               "radarID" : 12917,
+               "targetType" : 3,
+               "trueID" : 799,
+               "velocity" : [ -10.21518266, -174.2737219, 243.9760642 ]
+            }
+         ]
+      }
+   ],
+   "terminator" : 0
+}

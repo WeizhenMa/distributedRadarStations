@@ -1,0 +1,37 @@
+{
+   "data" : [
+      {
+         "radarID" : 13030,
+         "tracks" : [
+            {
+               "detectedID" : 1003,
+               "detectedTime" : 869.5,
+               "entityID" : 13030,
+               "height" : 567.32466569999997,
+               "lla" : [ 121.2448057, -27.57501169, -72902.396829999998 ],
+               "radarID" : 13030,
+               "targetType" : 3,
+               "trueID" : 781,
+               "velocity" : [ 246.2076524, 42.5549398, 166.0447801 ]
+            }
+         ]
+      },
+      {
+         "radarID" : 13044,
+         "tracks" : [
+            {
+               "detectedID" : 1003,
+               "detectedTime" : 869.5,
+               "entityID" : 13044,
+               "height" : 577.62734469999998,
+               "lla" : [ 121.2448045, -27.57501061, -72893.132679999995 ],
+               "radarID" : 13044,
+               "targetType" : 3,
+               "trueID" : 781,
+               "velocity" : [ 246.2076524, 42.5549398, 166.0447801 ]
+            }
+         ]
+      }
+   ],
+   "terminator" : 0
+}

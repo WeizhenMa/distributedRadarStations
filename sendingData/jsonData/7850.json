@@ -1,0 +1,21 @@
+{
+   "data" : [
+      {
+         "radarID" : 13093,
+         "tracks" : [
+            {
+               "detectedID" : 1003,
+               "detectedTime" : 1489.25,
+               "entityID" : 13093,
+               "height" : 356.38971149999998,
+               "lla" : [ 119.7531491, -26.55195586, -193938.1023 ],
+               "radarID" : 13093,
+               "targetType" : 3,
+               "trueID" : 781,
+               "velocity" : [ 250.0815169, 35.979955609999998, 161.7549928 ]
+            }
+         ]
+      }
+   ],
+   "terminator" : 0
+}
